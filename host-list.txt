@@ -1,0 +1,10 @@
+0.0.0.0 bsky.app
+0.0.0.0 *.bsky.app
+0.0.0.0 bsky.social
+0.0.0.0 *.bsky.social
+0.0.0.0 atproto.com
+0.0.0.0 *.atproto.com
+0.0.0.0 plc.directory
+0.0.0.0 *.plc.directory
+0.0.0.0 blueskyweb.xyz
+0.0.0.0 *.blueskyweb.xyz
